@@ -1,13 +1,13 @@
 # Bienvenidos a mi perfil de GitHub
 
 [![Profile views](https://img.shields.io/github/followers/tu_usuario?label=Profile%20views&style=flat-square)](https://github.com/HectorZL)
-[![Proyectos](https://img.shields.io/badge/Proyectos-5-blue?style=flat-square)](https://github.com/HectorZL?tab=repositories)
-[![Estrellas](https://img.shields.io/github/stars/tu_usuario?style=flat-square)](https://github.com/HectorZL)
+[![Proyects](https://img.shields.io/badge/Proyectos-5-blue?style=flat-square)](https://github.com/HectorZL?tab=repositories)
+[![Stair](https://img.shields.io/github/stars/tu_usuario?style=flat-square)](https://github.com/HectorZL)
 
 ## Proyectos más importantes
 
-- [](https://github.com/tu_usuario/proyecto-1) - Descripción breve del proyecto.
-- [Proyecto 2](https://github.com/tu_usuario/proyecto-2) - Descripción breve del proyecto.
+- [Proyecto 1](https://github.com/tu_usuario/proyecto-1) - Descripción breve del proyecto.
+
 
 ## Descripción personal
 
