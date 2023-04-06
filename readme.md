@@ -1,29 +1,64 @@
-# Welcome to my profile in GitHub
+# <p align="center">Welcome I'm Hector Zambrano👋
 
-##Description
+## <p align="center">I'm a student of system engineer</p>
 
-I am a student of the 1year of the career of system engineering, I am passionate about technology and programming, I am currently learning about the world of programming and I am very interested in learning more about it.
+<p align = "center"
 
-Im learning flutter and dart, and i want to learn more beacuse i want to be a mobile developer in the future.
-
-##Languages and tools
-
-[![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://www.cprogramming.com/)
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://www.cprogramming.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
-
-
-##Stats
-
-[![HectorZL's GitHub stats](https://github-readme-stats.vercel.app/api?username=HectorZL&show_icons=true&theme=radical)]
+![Followers](https://img.shields.io/github/followers/HectorZL?label=Followers&style=flat-square)
 [![Profile views](https://img.shields.io/github/followers/HectorZL?label=Profile%20views&style=flat-square)](https://github.com/HectorZL)
-[![Proyects](https://img.shields.io/badge/Proyectos-5-blue?style=flat-square)](https://github.com/HectorZL?tab=repositories)
-[![Stair](https://img.shields.io/github/stars/HectorZL?style=flat-square)](https://github.com/HectorZL)
+[![Proyects](https://img.shields.io/badge/Proyects-5-blue?style=flat-square)](https://github.com/HectorZL?tab=repositories)
+[![Stars](https://img.shields.io/github/stars/HectorZL?style=flat-square)](https://github.com/HectorZL)
+
+ >
 
 
 
-##Contact
 
-[![Telegram](https://img.shields.io/badge/Hectorzl04-blue?logo=telegram&style=flat-square)](https://t.me/Hectorzl04)
-[![Twitter](https://img.shields.io/twitter/follow/HZ2002JL?label=Twitter&style=social)](https://twitter.com/HZ2002JL)
+## <p align="center">📖 About me </p>
+
+<p align="center">I'm currently learning Flutter and Dart, and my goal is to become a mobile developer in the future.
+
+## <p align="center">🎨 Hobbies
+
+  <p align="center">
+  📚 Reading books (I like to read books about self-improvement,biographies, and science fiction)</p>
+  <p align="center">🎮 Playing video games</p>
+  
+
+  
+
+## <p align="center">📚 Currently learning
+
+  <p align="center">
+    - Flutter 
+    - Dart
+    - Python
+  </p>
+
+
+## <p align="center">🔧Languages and tools
+
+
+<p align = "center">
+  <img src="https://img.shields.io/badge/Flutter-blue?logo=flutter&style=flat-square" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-blue?logo=dart&style=flat-square" alt="Dart" />
+  <img src="https://img.shields.io/badge/Ubuntu-blue?logo=ubuntu&style=flat-square" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/GitHub-blue?logo=github&style=flat-square" alt="GitHub" />
+
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HectorZL&count_private=true,issues&show_icons=true&show_owner=true&theme=tokyonight" alt="Afkerian" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HectorZL&layout=compact&theme=tokyonight&langs_count=10t" alt="HectorZL" /></p>
+
+
+## <p align="center">📫 How to reach me: </p>
+
+<p align="center">
+  <a href="https://t.me/Hectorzl04">
+    <img src="https://img.shields.io/badge/Hectorzl04-blue?logo=telegram&style=flat-square" alt="Telegram" />
+  </a>
+  <a href="https://twitter.com/HZ2002JL">
+    <img src="https://img.shields.io/twitter/follow/HZ2002JL?label=Twitter&style=social" alt="Twitter" />
+  </a>
+
+
+
