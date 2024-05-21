@@ -30,8 +30,7 @@
 ## <p align="center">📚 Currently learning
 
   <p align="center">
-    - Flutter 
-    - Dart
+    - Kotlin
     - Python
   </p>
 
@@ -40,9 +39,7 @@
 
 
 <p align = "center">
-  <img src="https://img.shields.io/badge/Flutter-blue?logo=flutter&style=flat-square" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-blue?logo=dart&style=flat-square" alt="Dart" />
-  <img src="https://img.shields.io/badge/Ubuntu-blue?logo=ubuntu&style=flat-square" alt="Ubuntu" />
+  
   <img src="https://img.shields.io/badge/GitHub-blue?logo=github&style=flat-square" alt="GitHub" />
 
 
@@ -56,9 +53,7 @@
   <a href="https://t.me/Hectorzl04">
     <img src="https://img.shields.io/badge/Hectorzl04-blue?logo=telegram&style=flat-square" alt="Telegram" />
   </a>
-  <a href="https://twitter.com/HZ2002JL">
-    <img src="https://img.shields.io/twitter/follow/HZ2002JL?label=Twitter&style=social" alt="Twitter" />
-  </a>
+  
 
 
 
