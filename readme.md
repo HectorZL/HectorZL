@@ -9,16 +9,12 @@
 [![Proyects](https://img.shields.io/badge/Proyects-5-blue?style=flat-square)](https://github.com/HectorZL?tab=repositories)
 [![Stars](https://img.shields.io/github/stars/HectorZL?style=flat-square)](https://github.com/HectorZL)
 
- >
+ 
+<p align="center">📖 About me </p>
 
+<p align="center">I'm currently Kotlin and Python for Web scraping, and my goal is to become a mobile developer in the future.
 
-
-
-## <p align="center">📖 About me </p>
-
-<p align="center">I'm currently learning Flutter and Dart, and my goal is to become a mobile developer in the future.
-
-## <p align="center">🎨 Hobbies
+<p align="center">🎨 Hobbies
 
   <p align="center">
   📚 Reading books (I like to read books about self-improvement,biographies, and science fiction)</p>
@@ -27,7 +23,7 @@
 
   
 
-## <p align="center">📚 Currently learning
+<p align="center">📚 Currently learning
 
   <p align="center">
     - Kotlin
@@ -35,7 +31,7 @@
   </p>
 
 
-## <p align="center">🔧Languages and tools
+<p align="center">🔧Languages and tools
 
 
 <p align = "center">
