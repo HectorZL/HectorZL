@@ -12,7 +12,7 @@
  
 <p align="center">📖 About me </p>
 
-<p align="center">I'm currently Kotlin and Python for Web scraping, and my goal is to become a mobile developer in the future.
+<p align="center">I'm currently Flutter(meu8 donwload) and Python for Web scraping, and my goal is to become a mobile developer in the future.
 
 <p align="center">🎨 Hobbies
 
